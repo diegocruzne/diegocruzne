@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working in aws
+- ☁️ I’m currently working as a solutions architect at AWS
 - 🌱 I’m currently learning nestJs
 
 ## Tech Stack
